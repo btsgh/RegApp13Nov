@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "673445d3f1c82b6418e8ecc5_db3fa290-8492-49b7-887b-16d12bb588fd",
+  "id": "Page4_CustLib",
+  "unpublishedCollection": {
+    "name": "CustLib",
+    "pageId": "Page4",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
