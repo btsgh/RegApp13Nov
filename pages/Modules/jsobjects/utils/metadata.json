@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "673445d3f1c82b6418e8ecc5_68769187-61e7-4eb4-aa26-ae4a5017a8dc",
+  "id": "Modules_utils",
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Modules",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "activeModule",
+        "value": "{}"
+      },
+      {
+        "name": "activeModuleContent",
+        "value": "{}"
+      },
+      {
+        "name": "markComplete",
+        "value": "null"
+      }
+    ]
+  }
+}

@@ -18,6 +18,18 @@
   "icon": "burger",
   "pages": [
     {
+      "id": "Courses",
+      "isDefault": false
+    },
+    {
+      "id": "Modules",
+      "isDefault": false
+    },
+    {
+      "id": "Content",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     },
